@@ -1,0 +1,2 @@
+# goStorageStream
+Kafka Light
